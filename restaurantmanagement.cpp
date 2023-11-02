@@ -60,12 +60,12 @@ void pop(){
 
 void intro(){
     cout<<"\t\t-----------------------------------------------------------\n";
-     cout<<"\t\t***********************************************************\n";
-     cout<<"\t\t|\t\tRESTAURANT MANAGEMENT SYSTEM\t\t  |\n";
-     cout<<"\t\t|\t\tBY\t\t\t\t\t  |\n\t\t|\t\t21BCE095 --- JAY PANDYA\t\t\t  |\n\t\t|\t\t21BCE094 --- JASANI DEEP\t\t  |\n\t\t|\t\t21BCE093 --- JAISWAL JENIL\t\t  |\n";
-     cout<<"\t\t***********************************************************\n";
-     cout<<"\t\t-----------------------------------------------------------\n\n\n\n\n";
-     
+    cout<<"\t\t***********************************************************\n";
+    cout<<"\t\t|\t\tRESTAURANT MANAGEMENT SYSTEM\t\t  |\n";
+    cout<<"\t\t|\t\t\t\t\t\t\t  |\n\t\t|\t\t21BCE095 --- JAY PANDYA\t\t\t  |\n\t\t|\t\t\t\t\t\t\t  |\n\t\t|\t\t\t\t\t\t\t  |\n";
+    cout<<"\t\t***********************************************************\n";
+    cout<<"\t\t-----------------------------------------------------------\n\n\n\n\n";
+         
 }
 
 void main_menu(){
